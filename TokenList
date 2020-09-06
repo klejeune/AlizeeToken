@@ -1,0 +1,24 @@
+{
+  "name": "Alizee tokens",
+  "logoURI": "https://raw.githubusercontent.com/klejeune/AlizeeToken/0132e1e87c6e9c3ac16ecb7768bede680b2e48b1/alizeetoken-logo.svg",
+  "keywords": [
+    "compound",
+    "defi"
+  ],
+  "timestamp": "2020-09-03T12:37:57.000+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0xE41d2489571d322189246DaFA5ebDe1F4699F498",
+      "name": "Alizee",
+      "symbol": "ALZ",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/klejeune/AlizeeToken/0132e1e87c6e9c3ac16ecb7768bede680b2e48b1/alizeetoken-logo.svg"
+    }
+  ],
+  "version": {
+    "major": 0,
+    "minor": 1,
+    "patch": 0
+  }
+}
