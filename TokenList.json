@@ -2,13 +2,13 @@
   "name": "Alizee tokens",
   "logoURI": "https://raw.githubusercontent.com/klejeune/AlizeeToken/0132e1e87c6e9c3ac16ecb7768bede680b2e48b1/alizeetoken-logo.svg",
   "keywords": [
-    "compound",
+    "alizee",
     "defi"
   ],
-  "timestamp": "2020-09-03T12:37:57.000+00:00",
+  "timestamp": "2020-09-06T12:12:00.000+00:00",
   "tokens": [
     {
-      "chainId": 1,
+      "chainId": 3,
       "address": "0x5BDa9be2252D4A4067BbB9232777f6eD9fFdF00c",
       "name": "Alizee",
       "symbol": "ALZ",
