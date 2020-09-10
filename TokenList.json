@@ -21,6 +21,7 @@
       "name": "Khardiak",
       "symbol": "KHAR",
       "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/klejeune/AlizeeToken/0132e1e87c6e9c3ac16ecb7768bede680b2e48b1/alizeetoken-logo.svg"
     }    
   ],
   "version": {
