@@ -14,11 +14,18 @@
       "symbol": "ALZ",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/klejeune/AlizeeToken/0132e1e87c6e9c3ac16ecb7768bede680b2e48b1/alizeetoken-logo.svg"
-    }
+    },
+    {
+      "chainId": 3,
+      "address": "0x246132ad427f79788ac9f82522d8d59737d140a1",
+      "name": "Khardiak",
+      "symbol": "KHAR",
+      "decimals": 18,
+    }    
   ],
   "version": {
     "major": 0,
-    "minor": 2,
+    "minor": 3,
     "patch": 0
   }
 }
